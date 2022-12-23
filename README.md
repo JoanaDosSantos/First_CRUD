@@ -8,5 +8,5 @@ Depois de várias tentativas frustadas, e alguns projetos travados da faculdade,
 mas que me ajudou a praticar mesmo o básico.
 
 Fiz este projeto junto com o Acaciano Neves, do canal Programador Tech, e super recomendo!
-{https://www.youtube.com/watch?v=2TxePNK0kc8}
+https://www.youtube.com/watch?v=2TxePNK0kc8
 
