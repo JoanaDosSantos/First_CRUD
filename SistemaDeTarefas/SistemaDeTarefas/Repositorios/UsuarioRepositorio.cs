@@ -33,6 +33,11 @@ namespace SistemaDeTarefas.Repositorios
             await _dbContext.Usuarios.AddAsync(usuario);
             await _dbContext.SaveChangesAsync();
 
+            if (usuario == null)
+            {
+                return new Exception("Conta sem Id")
+            }
+
             return usuario;
         }
         #endregion
